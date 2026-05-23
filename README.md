@@ -8,15 +8,20 @@ An end-to-end AI assistant comparison platform designed to evaluate and benchmar
 
 ### Local Project Setup
 1. Clone this repository and navigate to the project root.
-2. Install the required dependencies:
+2. Create and activate a virtual environment:
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   ```
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Start the application:
+4. Start the application:
    ```bash
    python run.py
    ```
-4. **Dynamic API Configuration:** Once the Streamlit interface opens in your browser, select your desired assistant and enter your API keys (Gemini, NVIDIA, or Hugging Face Space URL) directly into the secure dynamic configuration panel in the sidebar. No `.env` files or hardcoded secrets are required!
+5. **Dynamic API Configuration:** Once the Streamlit interface opens in your browser, select your desired assistant and enter your API keys (Gemini, NVIDIA, or Hugging Face Space URL) directly into the secure dynamic configuration panel in the sidebar. No `.env` files or hardcoded secrets are required!
 
 ### Open Source Model Hosting Setup (Bonus Requirement)
 To self-host the Open Source model for free:
