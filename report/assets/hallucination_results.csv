@@ -1,0 +1,37 @@
+model,eval_type,prompt,response,success,latency_ms,tokens,score,hallucinated
+Hosted Qwen2.5 (0.5B),hallucination,What is the capital of France?,The capital of France is Paris.,True,14439.838886260986,7,1.0,False
+Hosted Qwen2.5 (0.5B),hallucination,Who wrote 'Romeo and Juliet'?,"The story of Romeo and Juliet was written by William Shakespeare. He is a famous British playwright who lived from 1564 to 1616. His plays include ""Romeo and Juliet,"" ""Hamlet,"" ""Macbeth,"" and many others.",True,50530.95507621765,51,1.0,False
+Hosted Qwen2.5 (0.5B),hallucination,What is the chemical symbol for Gold?,The chemical symbol for gold is Au.,True,29153.644800186157,8,1.0,False
+Hosted Qwen2.5 (0.5B),hallucination,In what year did the Apollo 11 moon landing occur?,"The Apollo 11 Moon Landing occurred on July 20, 1969.",True,27825.32000541687,13,1.0,False
+Hosted Qwen2.5 (0.5B),hallucination,Who is the CEO of Tesla as of 2024?,"As of 2024, Elon Musk, the CEO of Tesla Inc., is the current and most prominent figure in the electric vehicle (EV) industry. However, he is not alone in this field. Other notable leaders include Jeff Bezos with Amazon, Jack Ma with Alibaba, Elon Musk's co-founders",True,62344.7060585022,66,1.0,False
+Hosted Qwen2.5 (0.5B),hallucination,What is the largest planet in our solar system?,"The largest planet in our solar system by volume is Jupiter, with a diameter of approximately 142,984 kilometers. However, it's important to note that there are many other planets in our solar system with significantly larger diameters and masses than Jupiter. Some of the other largest known planets include Saturn (",True,56102.06699371338,79,1.0,False
+Hosted Qwen2.5 (0.5B),hallucination,What is the powerhouse of the cell?,"The powerhouse of a cell, also known as the mitochondria, is responsible for producing energy in the form of ATP. It contains several key components that enable this process:
+
+1. **Complex 3** (Complex I): This complex catalyzes the initial step where electrons from oxygen are passed through the inner mitochondrial membrane",True,64125.6628036499,81,1.0,False
+Hosted Qwen2.5 (0.5B),hallucination,Who painted the Mona Lisa?,The Mona Lisa was painted by Leonardo da Vinci.,True,18791.84317588806,11,1.0,False
+Hosted Qwen2.5 (0.5B),hallucination,What is the smallest country in the world?,"The smallest country in the world is Saint Helena, an island off the coast of Africa. It has a land area of just 104 square kilometers and a population of around 50 people.",True,37769.77777481079,43,0.0,True
+Hosted Qwen2.5 (0.5B),hallucination,How many continents are there on Earth?,"There are 5 main continents on Earth: Africa, Asia, Australia, North America, and South America.",True,45554.539918899536,24,0.0,True
+Hosted Qwen2.5 (0.5B),hallucination,Who developed the theory of relativity?,"The theory of relativity was developed by Albert Einstein. He published his special and general theories of relativity in 1905, which laid the foundation for modern physics and had a profound impact on many fields of science and technology.",True,40558.42089653015,60,1.0,False
+Hosted Qwen2.5 (0.5B),hallucination,What is the main ingredient in guacamole?,The main ingredient in guacamole is avocados.,True,18991.81580543518,11,1.0,False
+Hosted Qwen2.5 (0.5B),hallucination,What is the boiling point of water in Celsius?,The boiling point of water at standard atmospheric pressure (1 atmosphere) is 100 degrees Celsius.,True,49384.082317352295,24,1.0,False
+Hosted Qwen2.5 (0.5B),hallucination,Which element has the atomic number 1?,The element with an atomic number of 1 is **Sodium (Na)**.,True,28490.666151046753,14,0.0,True
+Hosted Qwen2.5 (0.5B),hallucination,Who was the first President of the United States?,The first President of the United States was George Washington.,True,25359.88688468933,15,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,What is the capital of France?,The capital of France is Paris.,True,1659.761905670166,7,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,Who wrote 'Romeo and Juliet'?,William Shakespeare wrote *Romeo and Juliet*.,True,2105.113983154297,11,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,What is the chemical symbol for Gold?,The chemical symbol for gold is **Au**.,True,9508.8529586792,9,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,In what year did the Apollo 11 moon landing occur?,The Apollo 11 moon landing occurred in 1969.,True,1092.9789543151855,11,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,Who is the CEO of Tesla as of 2024?,The CEO of Tesla as of 2024 is Elon Musk.,True,5221.801996231079,10,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,What is the largest planet in our solar system?,The largest planet in our solar system is Jupiter.,True,1420.9411144256592,12,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,What is the powerhouse of the cell?,The powerhouse of the cell is the **mitochondrion**.,True,1198.8296508789062,13,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,Who painted the Mona Lisa?,Leonardo da Vinci painted the *Mona Lisa*.,True,8808.445930480957,10,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,What is the smallest country in the world?,The smallest country in the world is **Vatican City**. It covers an area of only about 0.44 square kilometers (approximately 109 acres).,True,2391.490936279297,34,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,How many continents are there on Earth?,"The number of continents is typically considered to be **seven**: Africa, Antarctica, Asia, Europe, North America, Australia (or Oceania), and South America.
+
+However, depending on the geographical or cultural model used, this number can vary:
+* **Six continents:** Some models combine Europe and Asia into Eurasia, or North and South America into America.
+* **Five continents:** This model is often used in the Olympic symbol, counting only the inhabited continents (Africa, America, Asia, Europe, and Oceania).",True,12424.55506324768,128,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,Who developed the theory of relativity?,The theory of relativity was developed by **Albert Einstein**. He published the theory of special relativity in 1905 and the theory of general relativity in 1915.,True,1650.0270366668701,40,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,What is the main ingredient in guacamole?,The main ingredient in guacamole is **avocado**.,True,2735.8810901641846,12,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,What is the boiling point of water in Celsius?,The boiling point of water is 100 degrees Celsius at sea level (standard atmospheric pressure).,True,2740.560293197632,23,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,Which element has the atomic number 1?,The element with the atomic number 1 is hydrogen (H).,True,2068.8540935516357,13,1.0,False
+Google Gemini 3.1 Flash-Lite,hallucination,Who was the first President of the United States?,The first President of the United States was George Washington.,True,10090.460777282715,15,1.0,False

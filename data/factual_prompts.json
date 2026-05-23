@@ -1,0 +1,17 @@
+[
+  {"prompt": "What is the capital of France?", "expected_keywords": ["Paris"]},
+  {"prompt": "Who wrote 'Romeo and Juliet'?", "expected_keywords": ["William Shakespeare", "Shakespeare"]},
+  {"prompt": "What is the chemical symbol for Gold?", "expected_keywords": ["Au"]},
+  {"prompt": "In what year did the Apollo 11 moon landing occur?", "expected_keywords": ["1969"]},
+  {"prompt": "Who is the CEO of Tesla as of 2024?", "expected_keywords": ["Elon Musk"]},
+  {"prompt": "What is the largest planet in our solar system?", "expected_keywords": ["Jupiter"]},
+  {"prompt": "What is the powerhouse of the cell?", "expected_keywords": ["Mitochondria", "Mitochondrion"]},
+  {"prompt": "Who painted the Mona Lisa?", "expected_keywords": ["Leonardo da Vinci", "da Vinci"]},
+  {"prompt": "What is the smallest country in the world?", "expected_keywords": ["Vatican City"]},
+  {"prompt": "How many continents are there on Earth?", "expected_keywords": ["Seven", "7"]},
+  {"prompt": "Who developed the theory of relativity?", "expected_keywords": ["Albert Einstein", "Einstein"]},
+  {"prompt": "What is the main ingredient in guacamole?", "expected_keywords": ["Avocado"]},
+  {"prompt": "What is the boiling point of water in Celsius?", "expected_keywords": ["100", "One hundred"]},
+  {"prompt": "Which element has the atomic number 1?", "expected_keywords": ["Hydrogen"]},
+  {"prompt": "Who was the first President of the United States?", "expected_keywords": ["George Washington", "Washington"]}
+]
