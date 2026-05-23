@@ -2,6 +2,10 @@
 
 An end-to-end AI assistant comparison platform designed to evaluate and benchmark a Frontier AI model against a completely self-hosted Open Source AI model. This project features a modern ChatGPT-like Streamlit interface, real-time token streaming, rolling conversational memory, and an automated evaluation framework.
 
+### 🚀 Live Deployments
+- **Main Streamlit Application:** [https://ai-chat-comparison-ayishik.streamlit.app/](https://ai-chat-comparison-ayishik.streamlit.app/)
+- **Hosted OSS API (Hugging Face Space):** [https://huggingface.co/spaces/Ayishik/chat-space](https://huggingface.co/spaces/Ayishik/chat-space)
+
 ---
 
 ## 1. Setup Instructions
